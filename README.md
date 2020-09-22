@@ -5,6 +5,8 @@ and one carbohydrates source.
 
 The UI uses Java swing library via Kotlin nicer API.
 
+The main function is inside `DietGenerator.kt` file.
+
 ## FAQ
 
 ### What's the purpose
